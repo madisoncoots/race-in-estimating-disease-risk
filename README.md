@@ -1,6 +1,6 @@
 # Race and Ethnicity in Estimating Disease Risk
 
-Data and replication materials for Coots et al. (2024) "A Framework for Considering the Value of Race and Ethnicity in Estimating Disease Risk".
+Data and replication materials for Coots et al. (2024) ["A Framework for Considering the Value of Race and Ethnicity in Estimating Disease Risk"](https://www.acpjournals.org/doi/10.7326/M23-3166).
 
 To reproduce our figures, run the `code/make_paper_figures.R` script. R data objects for the analyses are located in the `data/` repository, so it is not necessary to run any data preprocessing scripts to generate the figures. 
 
